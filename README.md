@@ -9,3 +9,5 @@ Watch tutorial on YT
 ### Local Development
 
 1. Open index.html in you browswer 
+
+2. Edit something
